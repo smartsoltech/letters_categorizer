@@ -62,9 +62,5 @@ filenames:
   output:
     - result.csv
 settings:
-  gpt_token:
-    - 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
-  tg_bot_token:
-    - 879254890:AAFoMZPLDoOrxeCVPxsqZY1gAG_y7gmisIw
   encoding:
     - UTF-8    
