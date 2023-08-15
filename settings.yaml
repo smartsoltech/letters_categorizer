@@ -1,0 +1,70 @@
+keywords:
+  Security:
+    - безопасность
+    - пароль
+    - взлом
+    - защита
+    - подозрительная активность
+    - код доступа
+
+  Refunds:
+    - возврат
+    - возмещение
+    - отмена
+    - деньги
+    - средства
+    - заказ
+
+  Troubleshooting:
+    - проблема
+    - не работает
+    - ошибка
+    - падение
+    - сбой
+    - зависает
+
+  Account:
+    - аккаунт
+    - профиль
+    - регистрация
+    - вход
+    - выход
+    - доступ
+
+  Advertising and Collaboration:
+    - реклама
+    - сотрудничество
+    - партнерство
+    - бренд
+    - продвижение
+
+  Limits:
+    - лимит
+    - ограничение
+    - предел
+
+  Payments:
+    - оплата
+    - платеж
+    - счет
+    - банковская карта
+    - транзакция
+
+  Features:
+    - функционал
+    - возможность
+    - функция
+    - новинка
+    - опция
+filenames:
+  input:
+    - sample.csv
+  output:
+    - result.csv
+settings:
+  gpt_token:
+    - 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
+  tg_bot_token:
+    - 879254890:AAFoMZPLDoOrxeCVPxsqZY1gAG_y7gmisIw
+  encoding:
+    - UTF-8    
